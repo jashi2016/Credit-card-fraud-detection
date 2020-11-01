@@ -2,11 +2,17 @@
 #You can find the code in the text file uploaded.
 
 import numpy as np
+
 import pandas as pd 
+
 import sys
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 import scipy
+
 import sklearn
 
 data=pd.read_csv('https://storage.googleapis.com/download.tensorflow.org/data/creditcard.csv')
