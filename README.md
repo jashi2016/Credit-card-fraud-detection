@@ -1,4 +1,6 @@
 #CREDIT CARD DRAUD DETECTION
+#You can find the code in the text file uploaded.
+
 import numpy as np
 import pandas as pd 
 import sys
